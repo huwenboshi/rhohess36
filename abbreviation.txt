@@ -1,0 +1,36 @@
+am : Age at Menarche am 
+bmi : Body Mass Index 
+height : Height 
+hip : Hip Circumference 
+wc : Waist Circumference 
+whr : Waist-to-hip Ratio 
+hb : Haemoglobin 
+mch : Mean Cell Haemoglobin 
+mchc : MCH Concentration 
+mcv : Mean Cell Volume 
+pcv : Packed Cell Volume 
+rbc : Red Blood Cell Count 
+plt : Number of Platelets 
+fg : Fasting Glucose 
+fi : Fasting Insulin 
+hba1c : HBA1C 
+homa-b : HOMA-B 
+homa-ir : HOMA-IR 
+hdl : High Density Lipoprotein 
+ldl : Low Density Lipoprotein 
+tc : Total Cholesterol 
+tg : Triglycerides 
+fa : Forearm BMD 
+fn : Femoral Neck BMD 
+ls : Lumbar Spine BMD 
+ey : Education Years 
+neuro : Neuroticism 
+swb : Subjective Well-being 
+afb : Age First Birth 
+bw : Birth Weight 
+uacr : Urinary Albumin-to-Creatinine Ratio 
+hr : Rest Heart Rate 
+urate : Serum Urate Concentrations 
+bf : Body Fat 
+crn : Extra-Glomerular Filtration Rate of Creatinin 
+mp : Age at Menopause
